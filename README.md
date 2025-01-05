@@ -8,7 +8,7 @@ I'm **Harshitha Upadhyayula**, a 3rd-year B.Tech student in Computer Science and
 - 🚀 **Tech Enthusiast**: Exploring diverse tools, languages, and frameworks  
 - 💡 **Lifelong Learner**: From **DevOps pipelines** to **game algorithms**, I love solving challenges  
 - 🤝 **Team Player**: Skilled in collaborating and delivering impactful projects  
-- 🧑‍💻 As a DevOps Intern at Stalcon Solutions, I built and optimized CI/CD pipelines using AWS Cloud Services/
+- 🧑‍💻 As a DevOps Intern at Stalcon Solutions, I built and optimized CI/CD pipelines using AWS Cloud Services
 
 ## Skills  
 
