@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-I'm **Harshitha Upadhyayula**, a 3rd-year B.Tech student in Computer Science and Business Systems at VNRVJIET, passionate about technology, teamwork, and crafting innovative solutions. I actively explore open source, cutting-edge technologies, and collaborative projects to broaden my skills and make an impact.
+I'm **Harshitha Upadhyayula**, a 4th-year B.Tech student in Computer Science and Business Systems at VNRVJIET, passionate about technology, teamwork, and crafting innovative solutions. I actively explore open source, cutting-edge technologies, and collaborative projects to broaden my skills and make an impact.
 
 
 
